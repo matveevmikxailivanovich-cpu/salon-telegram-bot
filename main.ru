@@ -16,7 +16,7 @@ logger = logging.getLogger(**name**)
 
 # ⚠️ ЗАМЕНИТЕ НА ВАШ ТОКЕН ОТ @BotFather
 
-BOT_TOKEN = “YOUR_BOT_TOKEN_HERE”
+BOT_TOKEN ="AAFaeNBZnrKig1tU0VR74DoCTHdrXsRKV1U"
 
 print(“🚀 Запуск салон-бота…”)
 print(f”🔑 Токен: {‘✅’ if BOT_TOKEN != ‘YOUR_BOT_TOKEN_HERE’ else ‘❌ НЕ УСТАНОВЛЕН!’}”)
